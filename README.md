@@ -1,10 +1,10 @@
-# **Segmentação e Personas de Clientes com RFM e Clustering** 📊
+## **Segmentação e Personas de Clientes com RFM e Clustering** 📊
 
 Este projeto realiza análise e segmentação de clientes utilizando métricas RFM (Recência, Frequência e Valor Monetário) e outras variáveis complementares. Com o algoritmo K-Means, identifica grupos de clientes com comportamentos semelhantes e gera personas para apoiar estratégias de marketing direcionadas.
 
 O objetivo é compreender melhor o comportamento dos clientes, otimizar campanhas, aumentar retenção e maximizar o valor do cliente. 🎯
 
-# Funcionalidades ✨
+## Funcionalidades ✨
 
 📈 Cálculo automático das métricas RFM a partir dos dados de vendas.
 
@@ -22,7 +22,7 @@ O objetivo é compreender melhor o comportamento dos clientes, otimizar campanha
 
 💾 Exportação dos resultados para arquivos Excel para análises posteriores.
 
-# Tecnologias Utilizadas 🛠️
+## Tecnologias Utilizadas 🛠️
 
 - Python 3.x
 
@@ -39,7 +39,7 @@ O objetivo é compreender melhor o comportamento dos clientes, otimizar campanha
 - OpenPyXL (para exportação Excel)
 
 
-# Como usar ▶️
+## Como usar ▶️
 
 1. Clone este repositório:
 
